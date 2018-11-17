@@ -5,10 +5,6 @@ Version 1.48 : Cryptonight V8(CNV2) for XMR (Monero) is added.
 
 
 
-Free Cryptocurrency(based on blockchain) Miner. AA Miner support 50+ algorithms.
-
-
-
 AAMiner is Free Cryptocurrency(based on blockchain) Miner.
 
 AA Miner support more than 50 algorithms.
