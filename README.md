@@ -53,27 +53,27 @@ Password: x
 
 * FAQ
 
-- AA Miner is safe because it does not require a wallet address because it is using mining pool.
+AA Miner is safe because it does not require a wallet address because it is using mining pool.
 
-- AA Miner does not require special permissions such as accessibility.
+AA Miner does not require special permissions such as accessibility.
 
-- If it freeze your device, use less number of threads.
+If it freeze your device, use less number of threads.
 
-- Turn off battery optimization for background mining.
+Turn off battery optimization for background mining.
 
-- Don't put any white spaces in Server URL / Username / Password.
+Don't put any white spaces in Server URL / Username / Password.
 
 
 
 * Features
 
-- Background mining(Turn off battery optimization.Also we recommend to screen on for continuous mining and better performance.)
+Background mining(Turn off battery optimization.Also we recommend to screen on for continuous mining and better performance.)
 
-- Arbitrary Multi-thread mining
+Arbitrary Multi-thread mining
 
-- http, https, stratum+tcp protocol is supported
+http, https, stratum+tcp protocol is supported
 
-- Running on battery
+Running on battery
 
 
 
