@@ -1,10 +1,9 @@
 # aaminer
 AA Miner (BTC,BCH,LTC,XMR,DASH.. CryptoCoin Miner).
 
+[Version 1.50 : Performance improvement.](../../raw/master/aaminer-1-50-release.apk)
+
 Version 1.48 : Cryptonight V8(CNV2) for XMR (Monero) is added.
-Version 1.50 : Performance improvement.
-
-
 
 AAMiner is Free Cryptocurrency(based on blockchain) Miner.
 
